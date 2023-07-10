@@ -1,0 +1,124 @@
+
+   .write  {
+
+        width: 100%;
+
+        position: relative;
+        padding: 12px;
+        border: 3px groove  blue;
+        border-radius: 10px;
+        
+        margin-top: 6px;
+        margin-bottom: 16px;
+        resize: vertical;
+}
+.val{
+    position: relative;
+    padding: 12px;
+    border: 3px groove blue;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 300px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+.no  {
+
+    width: 83.5%;
+    
+    margin-top: -20px;
+    position: relative;
+    padding: 12px;
+    border: 3px groove  blue;
+    border-radius: 10px;
+    
+
+    margin-bottom: 16px;
+    resize: vertical;
+}
+.yes  {
+
+    width: 91%;
+    margin-top: 40px;
+    position: relative;
+    padding: 12px;
+    border: 3px groove  blue;
+    border-radius: 10px;
+    margin-left: 45px;
+
+    margin-bottom: 16px;
+    resize: vertical;
+}
+.private{
+    position: relative;
+    accent-color:lime;
+    padding: 2px;
+    border: 3px groove  blue;
+    width: 30px;
+    height: 40px;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+.align{
+  
+        position: relative;
+        font-size: 20px;
+        font-weight: bolder;
+       font-family: arial;
+        margin-left: 90px;
+        margin-top: -45px;
+        
+        resize: vertical;
+    }
+    .bot{
+        width: 150px;
+        height: 40px;
+        border-radius: 50px;
+        position: relative;
+        left: 500px;
+        background-color: blue;
+        color: white;
+    }
+    /* .fill{
+        background-color: white;
+        padding-bottom: 40px;
+    } */
+    .letter{
+        color: red;
+        font-family: arial;
+     
+        text-shadow: 2px 2px 3px black ;
+
+        text-transform: uppercase;
+        font-weight: bolder;
+        position: absolute;
+        left: 50px;
+        top: 60px;
+        font-size: 40px;
+        
+    }
+    .policy{
+        margin-left: 30px;
+        color: rgb(57, 54, 54);
+        font-family: arial;
+        font-size: 15px;
+        text-align: justify;
+        margin-right: 30px;
+    }
+    .box{
+        position: relative;
+        accent-color:lime;
+        padding: 2px;
+        border: 3px groove  blue;
+        width: 30px;
+        height: 40px;
+        border-radius: 10px;
+        margin-left: 40px;
+        margin-top: 60px;
+        margin-bottom: 16px;
+        bottom: 160px;
+        resize: vertical;
+    }
